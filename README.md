@@ -1,3 +1,3 @@
 # webcomic-scraper
-Scrapes xkcd and SMBC comics.
+Scrapes xkcd comics.
 Happy reading :D
